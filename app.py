@@ -119,4 +119,4 @@ if __name__ == '__main__':
     app.run(debug=True,threaded=True, use_reloader=False)
 
 # release the video stream pointer
-vs.release
+vs.release()
