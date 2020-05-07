@@ -7,3 +7,7 @@ Werkzeug==0.15.5
 numpy>=1.9.2
 opencv-python==4.2.0.32
 argparse
+scipy>=0.15.1
+scikit-learn>=0.18
+matplotlib>=1.4.3
+pandas>=0.19
